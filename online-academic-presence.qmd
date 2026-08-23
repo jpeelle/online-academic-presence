@@ -2,8 +2,7 @@
 title: 'Your online academic presence'
 author: 'Jonathan Peelle'
 institute: 'Northeastern University'
-title-slide-attributes:
-    data-background-image: images/stairs.jpg
+title-slide-attributes:    
     data-background-size: cover
     data-background-opacity: '0.6'
 format:
@@ -93,7 +92,7 @@ Whether it's worth going beyond these depends on your personal goals.
 ::: {.incremental}
 - Have information your audience cares about
 - Under your control
-- Stable URL
+- Stable URL (independent of institution)
 - Easy to update
 :::
 
@@ -112,5 +111,17 @@ Whether it's worth going beyond these depends on your personal goals.
 
 [1]: http://www.squarespace.com/
 [2]: https://pages.github.com/
+
+
+## Website content
+
+ - Think about your goals and likely audiences
+ - Be inspired by people you look up to in your desired profession
+ - At minimum:
+   - A short bio or introduction
+   - A CV
+   - A list of publications
+   - Contact information
+
 
 ## Questions?
