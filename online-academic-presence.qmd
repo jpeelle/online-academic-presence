@@ -1,0 +1,116 @@
+---
+title: 'Your online academic presence'
+author: 'Jonathan Peelle'
+institute: 'Northeastern University'
+title-slide-attributes:
+    data-background-image: images/stairs.jpg
+    data-background-size: cover
+    data-background-opacity: '0.6'
+format:
+  revealjs: 
+    incremental: false
+    theme: moon
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: styles.css
+---
+
+
+
+##
+
+ - What is the right time to build a personal website, and how do you do it?
+ - Is social media ever useful professionally?
+ - How can you network as effectively as possible in a way that feels comfortable?
+
+
+
+## Caveats
+
+ - Everyone has opinions
+ - Find what works for you
+  
+
+## General observations
+
+ - Like most of life, what you get out of a thing relates to how much time and effort you put in
+
+
+
+## What goals do you have for your online presence?
+
+. . .
+
+ - Academic job search
+ - Research visibility
+ - Teaching visibility
+ - Public engagement
+ - Other professional goals
+  
+
+## What audiences do you have for your online presence?
+
+. . .
+
+ - Students
+ - Colleagues
+ - Collaborators
+ - Funders
+ - The public
+ - Other professional audiences
+
+
+## Start here
+
+As an academic you should have:
+
+1. A personal website with a stable URL
+2. A completed LinkedIn profile
+3. A Google Scholar profile
+
+Whether it's worth going beyond these depends on your personal goals.
+
+
+## Your current online presence
+
+- Try typing your name into Google. If you are not the first result, you have work to do.
+- Both web search and LLMs make use of available documents on the web. It's not magic. If you don't like what you see about yourself, work to change it.
+
+
+## LinkedIn
+
+ - Complete your profile, targeting the audiences you want to reach
+   - If you are looking for a job in industry you may want to highlight project management experience or coding.
+ - Keep your information current!
+ - Consider posting to promote your work, colleagues work, etc.
+ 
+
+
+## Website requirements
+
+::: {.incremental}
+- Have information your audience cares about
+- Under your control
+- Stable URL
+- Easy to update
+:::
+
+## Website options
+
+::: {.incremental}
+- [Squarespace][1]
+   - Intuitive editing
+   - Generally looks good
+   - Costs money
+- [GitHub Pages][2]
+   - Intuitive editing *if you are comfortable with markdown type languages*
+   - Can look good
+   - Free
+:::
+
+[1]: http://www.squarespace.com/
+[2]: https://pages.github.com/
+
+## Questions?
