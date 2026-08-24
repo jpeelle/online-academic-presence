@@ -128,7 +128,7 @@ Whether it's worth going beyond these depends on your personal goals.
 - <https://academicpages.github.io>
    - Step-by-step instructions provided
 
-
+- Jonathan's quick example that took about 2 hours (and is not complete): <http://jpeelle.github.io>
 
 
 ## Academicpages: edit yaml and md text files
@@ -202,3 +202,14 @@ Like most of life, what you get out of a thing relates to how much time and effo
 
 
 ## Questions?
+
+
+## Other resources
+
+- Juice and Squeeze [podcast on science communication and online presence][1]
+- Juice and Squeeze [podcast on networking][2]
+
+
+
+[1]: https://www.juiceandsqueeze.net/36
+[2]: https://www.juiceandsqueeze.net/6
