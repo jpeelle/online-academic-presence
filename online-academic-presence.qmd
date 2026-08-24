@@ -107,7 +107,7 @@ Whether it's worth going beyond these depends on your personal goals.
 
 ## Website options
 
-::: 
+
 - [Squarespace][1]
    - Intuitive editing
    - Generally looks good
@@ -117,7 +117,7 @@ Whether it's worth going beyond these depends on your personal goals.
    - Can look good
    - Free
 - Other: Quarto, Rmarkdown, etc.
-:::
+
 
 [1]: http://www.squarespace.com/
 [2]: https://pages.github.com/
@@ -206,10 +206,10 @@ Like most of life, what you get out of a thing relates to how much time and effo
 
 ## Other resources
 
-- Juice and Squeeze [podcast on science communication and online presence][1]
-- Juice and Squeeze [podcast on networking][2]
+- Juice and Squeeze [podcast on science communication and online presence][3]
+- Juice and Squeeze [podcast on networking][4]
 
 
 
-[1]: https://www.juiceandsqueeze.net/36
-[2]: https://www.juiceandsqueeze.net/6
+[3]: https://www.juiceandsqueeze.net/36
+[4]: https://www.juiceandsqueeze.net/6
