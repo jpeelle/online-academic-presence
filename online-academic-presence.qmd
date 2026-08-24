@@ -32,9 +32,7 @@ format:
  - Find what works for you
   
 
-## General observations
 
- - Like most of life, what you get out of a thing relates to how much time and effort you put in
 
 
 
@@ -67,7 +65,7 @@ As an academic you should have:
 
 1. A personal website with a stable URL
 2. A completed LinkedIn profile
-3. A Google Scholar profile
+3. A Google Scholar profile (as soon as you have 1 publication)
 
 Whether it's worth going beyond these depends on your personal goals.
 
@@ -83,7 +81,9 @@ Whether it's worth going beyond these depends on your personal goals.
  - Complete your profile, targeting the audiences you want to reach
    - If you are looking for a job in industry you may want to highlight project management experience or coding.
  - Keep your information current!
+ - Build some kind of network
  - Consider posting to promote your work, colleagues work, etc.
+
  
 
 
@@ -104,13 +104,54 @@ Whether it's worth going beyond these depends on your personal goals.
    - Generally looks good
    - Costs money
 - [GitHub Pages][2]
-   - Intuitive editing *if you are comfortable with markdown type languages*
+   - Intuitive editing...*if you are comfortable with markdown type languages and git workflow*
    - Can look good
    - Free
+- Other: Quarto, Rmarkdown, etc.
+
 :::
 
 [1]: http://www.squarespace.com/
 [2]: https://pages.github.com/
+
+
+## Themes for GitHub pages
+
+- <https://academicpages.github.io>
+
+
+
+
+## Academic website
+
+```{.yaml}
+# Basic Site Settings
+locale             : "en-US"
+site_theme         : "mint"
+title              : "Your online academic presence"
+title_separator    : "-"
+name               : &name "Jonathan Peelle"
+description        : &description "Professor Peelle's Portfolio"   
+url                : https://jpeelle.github.io 
+                                                      
+
+author:
+  avatar           : "profile.png"
+  name             : "Jonathan Peelle"
+  pronouns         : "he/him"  
+  bio              : "Smart and handsome professor"
+  location         : "Boston, MA"
+  employer         : "Northeastern University"
+  uri              : "http://jonathanpeelle.net"
+```
+
+
+## Hosting vs. domain
+
+- A website *host* is where your content lives
+- A *domain* is what you would type in the address bar (e.g., jonathanpeelle.net)
+- Regardless of where you host your website, having a domain is nice (and often only about $20/year)
+   - I use Hover. Save $2: <https://hover.com/xFYiu13a>
 
 
 ## Website content
@@ -122,6 +163,18 @@ Whether it's worth going beyond these depends on your personal goals.
    - A CV
    - A list of publications
    - Contact information
+
+## Other social media
+
+![](images/bluesky.png){width=80%}
+
+:::aside
+<https://bsky.app/profile/jpeelle.bsky.social/post/3mtpomft3ic2n>
+:::
+
+## General observation
+
+ - Like most of life, what you get out of a thing relates to how much time and effort you put in
 
 
 ## Questions?

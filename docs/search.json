@@ -14,13 +14,6 @@
     "text": "Caveats\n\nEveryone has opinions\nFind what works for you"
   },
   {
-    "objectID": "online-academic-presence.html#general-observations",
-    "href": "online-academic-presence.html#general-observations",
-    "title": "Your online academic presence",
-    "section": "General observations",
-    "text": "General observations\n\nLike most of life, what you get out of a thing relates to how much time and effort you put in"
-  },
-  {
     "objectID": "online-academic-presence.html#what-goals-do-you-have-for-your-online-presence",
     "href": "online-academic-presence.html#what-goals-do-you-have-for-your-online-presence",
     "title": "Your online academic presence",
@@ -39,7 +32,7 @@
     "href": "online-academic-presence.html#start-here",
     "title": "Your online academic presence",
     "section": "Start here",
-    "text": "Start here\nAs an academic you should have:\n\nA personal website with a stable URL\nA completed LinkedIn profile\nA Google Scholar profile\n\nWhether it’s worth going beyond these depends on your personal goals."
+    "text": "Start here\nAs an academic you should have:\n\nA personal website with a stable URL\nA completed LinkedIn profile\nA Google Scholar profile (as soon as you have 1 publication)\n\nWhether it’s worth going beyond these depends on your personal goals."
   },
   {
     "objectID": "online-academic-presence.html#your-current-online-presence",
@@ -53,21 +46,63 @@
     "href": "online-academic-presence.html#linkedin",
     "title": "Your online academic presence",
     "section": "LinkedIn",
-    "text": "LinkedIn\n\nComplete your profile, targeting the audiences you want to reach\n\nIf you are looking for a job in industry you may want to highlight project management experience or coding.\n\nKeep your information current!\nConsider posting to promote your work, colleagues work, etc."
+    "text": "LinkedIn\n\nComplete your profile, targeting the audiences you want to reach\n\nIf you are looking for a job in industry you may want to highlight project management experience or coding.\n\nKeep your information current!\nBuild some kind of network\nConsider posting to promote your work, colleagues work, etc."
   },
   {
     "objectID": "online-academic-presence.html#website-requirements",
     "href": "online-academic-presence.html#website-requirements",
     "title": "Your online academic presence",
     "section": "Website requirements",
-    "text": "Website requirements\n\n\nHave information your audience cares about\nUnder your control\nStable URL\nEasy to update"
+    "text": "Website requirements\n\n\nHave information your audience cares about\nUnder your control\nStable URL (independent of institution)\nEasy to update"
   },
   {
     "objectID": "online-academic-presence.html#website-options",
     "href": "online-academic-presence.html#website-options",
     "title": "Your online academic presence",
     "section": "Website options",
-    "text": "Website options\n\n\nSquarespace\n\nIntuitive editing\nGenerally looks good\nCosts money\n\nGitHub Pages\n\nIntuitive editing if you are comfortable with markdown type languages\nCan look good\nFree"
+    "text": "Website options\n\n\nSquarespace\n\nIntuitive editing\nGenerally looks good\nCosts money\n\nGitHub Pages\n\nIntuitive editing…if you are comfortable with markdown type languages and git workflow\nCan look good\nFree"
+  },
+  {
+    "objectID": "online-academic-presence.html#themes-for-github-pages",
+    "href": "online-academic-presence.html#themes-for-github-pages",
+    "title": "Your online academic presence",
+    "section": "Themes for GitHub pages",
+    "text": "Themes for GitHub pages\n\nhttps://academicpages.github.io"
+  },
+  {
+    "objectID": "online-academic-presence.html#academic-website",
+    "href": "online-academic-presence.html#academic-website",
+    "title": "Your online academic presence",
+    "section": "Academic website",
+    "text": "Academic website\n# Basic Site Settings\nlocale             : \"en-US\"\nsite_theme         : \"mint\"\ntitle              : \"Your online academic presence\"\ntitle_separator    : \"-\"\nname               : &name \"Jonathan Peelle\"\ndescription        : &description \"Professor Peelle's Portfolio\"   \nurl                : https://jpeelle.github.io \n                                                      \n\nauthor:\n  avatar           : \"profile.png\"\n  name             : \"Jonathan Peelle\"\n  pronouns         : \"he/him\"  \n  bio              : \"Smart and handsome professor\"\n  location         : \"Boston, MA\"\n  employer         : \"Northeastern University\"\n  uri              : \"http://jonathanpeelle.net\""
+  },
+  {
+    "objectID": "online-academic-presence.html#hosting-vs.-domain",
+    "href": "online-academic-presence.html#hosting-vs.-domain",
+    "title": "Your online academic presence",
+    "section": "Hosting vs. domain",
+    "text": "Hosting vs. domain\n\nA website host is where your content lives\nA domain is what you would type in the address bar (e.g., jonathanpeelle.net)\nRegardless of where you host your website, having a domain is nice (and often only about $20/year)\n\nI use Hover. Save $2: https://hover.com/xFYiu13a"
+  },
+  {
+    "objectID": "online-academic-presence.html#website-content",
+    "href": "online-academic-presence.html#website-content",
+    "title": "Your online academic presence",
+    "section": "Website content",
+    "text": "Website content\n\nThink about your goals and likely audiences\nBe inspired by people you look up to in your desired profession\nAt minimum:\n\nA short bio or introduction\nA CV\nA list of publications\nContact information"
+  },
+  {
+    "objectID": "online-academic-presence.html#other-social-media",
+    "href": "online-academic-presence.html#other-social-media",
+    "title": "Your online academic presence",
+    "section": "Other social media",
+    "text": "Other social media\n\n\nhttps://bsky.app/profile/jpeelle.bsky.social/post/3mtpomft3ic2n"
+  },
+  {
+    "objectID": "online-academic-presence.html#general-observation",
+    "href": "online-academic-presence.html#general-observation",
+    "title": "Your online academic presence",
+    "section": "General observation",
+    "text": "General observation\n\nLike most of life, what you get out of a thing relates to how much time and effort you put in"
   },
   {
     "objectID": "online-academic-presence.html#questions",

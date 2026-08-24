@@ -28,6 +28,70 @@
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
     }
+    pre > code.sourceCode { white-space: pre; position: relative; }
+    pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+    pre > code.sourceCode > span:empty { height: 1.2em; }
+    .sourceCode { overflow: visible; }
+    code.sourceCode > span { color: inherit; text-decoration: inherit; }
+    div.sourceCode { margin: 1em 0; }
+    pre.sourceCode { margin: 0; }
+    @media screen {
+    div.sourceCode { overflow: auto; }
+    }
+    @media print {
+    pre > code.sourceCode { white-space: pre-wrap; }
+    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+    }
+    pre.numberSource code
+      { counter-reset: source-line 0; }
+    pre.numberSource code > span
+      { position: relative; left: -4em; counter-increment: source-line; }
+    pre.numberSource code > span > a:first-child::before
+      { content: counter(source-line);
+        position: relative; left: -1em; text-align: right; vertical-align: baseline;
+        border: none; display: inline-block;
+        -webkit-touch-callout: none; -webkit-user-select: none;
+        -khtml-user-select: none; -moz-user-select: none;
+        -ms-user-select: none; user-select: none;
+        padding: 0 4px; width: 4em;
+      }
+    pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+    div.sourceCode
+      { color: #f8f8f2;  }
+    @media screen {
+    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+    }
+    code span { color: #f8f8f2; } /* Normal */
+    code span.al { color: #f07178; background-color: #2a0f15; font-weight: bold; } /* Alert */
+    code span.an { color: #d4d0ab; } /* Annotation */
+    code span.at { color: #00e0e0; } /* Attribute */
+    code span.bn { color: #d4d0ab; } /* BaseN */
+    code span.bu { color: #abe338; } /* BuiltIn */
+    code span.cf { color: #ffa07a; font-weight: bold; } /* ControlFlow */
+    code span.ch { color: #abe338; } /* Char */
+    code span.cn { color: #ffd700; } /* Constant */
+    code span.co { color: #f8f8f2; font-style: italic; } /* Comment */
+    code span.cv { color: #ffd700; } /* CommentVar */
+    code span.do { color: #f8f8f2; } /* Documentation */
+    code span.dt { color: #ffa07a; } /* DataType */
+    code span.dv { color: #d4d0ab; } /* DecVal */
+    code span.er { color: #f07178; text-decoration: underline; } /* Error */
+    code span.ex { color: #00e0e0; font-weight: bold; } /* Extension */
+    code span.fl { color: #d4d0ab; } /* Float */
+    code span.fu { color: #ffa07a; } /* Function */
+    code span.im { color: #abe338; } /* Import */
+    code span.in { color: #d4d0ab; } /* Information */
+    code span.kw { color: #ffa07a; font-weight: bold; } /* Keyword */
+    code span.op { color: #ffa07a; } /* Operator */
+    code span.ot { color: #00e0e0; } /* Other */
+    code span.pp { color: #dcc6e0; } /* Preprocessor */
+    code span.re { color: #00e0e0; background-color: #f8f8f2; } /* RegionMarker */
+    code span.sc { color: #abe338; } /* SpecialChar */
+    code span.ss { color: #abe338; } /* SpecialString */
+    code span.st { color: #abe338; } /* String */
+    code span.va { color: #00e0e0; } /* Variable */
+    code span.vs { color: #abe338; } /* VerbatimString */
+    code span.wa { color: #dcc6e0; } /* Warning */
   </style>
   <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto.css" id="theme">
   <link rel="stylesheet" href="styles.css">
@@ -356,12 +420,6 @@ Jonathan Peelle
 <li>Find what works for you</li>
 </ul>
 </section>
-<section id="general-observations" class="slide level2">
-<h2>General observations</h2>
-<ul>
-<li>Like most of life, what you get out of a thing relates to how much time and effort you put in</li>
-</ul>
-</section>
 <section id="what-goals-do-you-have-for-your-online-presence" class="slide level2">
 <h2>What goals do you have for your online presence?</h2>
 <div class="fragment">
@@ -393,7 +451,7 @@ Jonathan Peelle
 <ol type="1">
 <li>A personal website with a stable URL</li>
 <li>A completed LinkedIn profile</li>
-<li>A Google Scholar profile</li>
+<li>A Google Scholar profile (as soon as you have 1 publication)</li>
 </ol>
 <p>Whether it’s worth going beyond these depends on your personal goals.</p>
 </section>
@@ -412,6 +470,7 @@ Jonathan Peelle
 <li>If you are looking for a job in industry you may want to highlight project management experience or coding.</li>
 </ul></li>
 <li>Keep your information current!</li>
+<li>Build some kind of network</li>
 <li>Consider posting to promote your work, colleagues work, etc.</li>
 </ul>
 </section>
@@ -421,7 +480,7 @@ Jonathan Peelle
 <ul>
 <li class="fragment">Have information your audience cares about</li>
 <li class="fragment">Under your control</li>
-<li class="fragment">Stable URL</li>
+<li class="fragment">Stable URL (independent of institution)</li>
 <li class="fragment">Easy to update</li>
 </ul>
 </div>
@@ -438,12 +497,76 @@ Jonathan Peelle
 </ul></li>
 <li class="fragment"><a href="https://pages.github.com/">GitHub Pages</a>
 <ul>
-<li class="fragment">Intuitive editing <em>if you are comfortable with markdown type languages</em></li>
+<li class="fragment">Intuitive editing…<em>if you are comfortable with markdown type languages and git workflow</em></li>
 <li class="fragment">Can look good</li>
 <li class="fragment">Free</li>
 </ul></li>
 </ul>
 </div>
+</section>
+<section id="themes-for-github-pages" class="slide level2">
+<h2>Themes for GitHub pages</h2>
+<ul>
+<li><a href="https://academicpages.github.io" class="uri">https://academicpages.github.io</a></li>
+</ul>
+</section>
+<section id="academic-website" class="slide level2">
+<h2>Academic website</h2>
+<div class="sourceCode" id="cb1"><pre class="sourceCode numberSource yaml number-lines code-with-copy"><code class="sourceCode yaml"><span id="cb1-1"><a href="#cb1-1"></a><span class="co"># Basic Site Settings</span></span>
+<span id="cb1-2"><a href="#cb1-2"></a><span class="fu">locale             </span><span class="kw">:</span><span class="at"> </span><span class="st">"en-US"</span></span>
+<span id="cb1-3"><a href="#cb1-3"></a><span class="fu">site_theme         </span><span class="kw">:</span><span class="at"> </span><span class="st">"mint"</span></span>
+<span id="cb1-4"><a href="#cb1-4"></a><span class="fu">title              </span><span class="kw">:</span><span class="at"> </span><span class="st">"Your online academic presence"</span></span>
+<span id="cb1-5"><a href="#cb1-5"></a><span class="fu">title_separator    </span><span class="kw">:</span><span class="at"> </span><span class="st">"-"</span></span>
+<span id="cb1-6"><a href="#cb1-6"></a><span class="fu">name               </span><span class="kw">:</span><span class="at"> </span><span class="ot">&amp;name</span><span class="at"> "Jonathan Peelle"</span></span>
+<span id="cb1-7"><a href="#cb1-7"></a><span class="fu">description        </span><span class="kw">:</span><span class="at"> </span><span class="ot">&amp;description</span><span class="at"> "Professor Peelle's Portfolio"   </span></span>
+<span id="cb1-8"><a href="#cb1-8"></a><span class="fu">url                </span><span class="kw">:</span><span class="at"> https://jpeelle.github.io </span></span>
+<span id="cb1-9"><a href="#cb1-9"></a><span class="at">                                                      </span></span>
+<span id="cb1-10"><a href="#cb1-10"></a></span>
+<span id="cb1-11"><a href="#cb1-11"></a><span class="fu">author</span><span class="kw">:</span></span>
+<span id="cb1-12"><a href="#cb1-12"></a><span class="at">  </span><span class="fu">avatar           </span><span class="kw">:</span><span class="at"> </span><span class="st">"profile.png"</span></span>
+<span id="cb1-13"><a href="#cb1-13"></a><span class="at">  </span><span class="fu">name             </span><span class="kw">:</span><span class="at"> </span><span class="st">"Jonathan Peelle"</span></span>
+<span id="cb1-14"><a href="#cb1-14"></a><span class="at">  </span><span class="fu">pronouns         </span><span class="kw">:</span><span class="at"> </span><span class="st">"he/him"</span><span class="at">  </span></span>
+<span id="cb1-15"><a href="#cb1-15"></a><span class="at">  </span><span class="fu">bio              </span><span class="kw">:</span><span class="at"> </span><span class="st">"Smart and handsome professor"</span></span>
+<span id="cb1-16"><a href="#cb1-16"></a><span class="at">  </span><span class="fu">location         </span><span class="kw">:</span><span class="at"> </span><span class="st">"Boston, MA"</span></span>
+<span id="cb1-17"><a href="#cb1-17"></a><span class="at">  </span><span class="fu">employer         </span><span class="kw">:</span><span class="at"> </span><span class="st">"Northeastern University"</span></span>
+<span id="cb1-18"><a href="#cb1-18"></a><span class="at">  </span><span class="fu">uri              </span><span class="kw">:</span><span class="at"> </span><span class="st">"http://jonathanpeelle.net"</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="hosting-vs.-domain" class="slide level2">
+<h2>Hosting vs.&nbsp;domain</h2>
+<ul>
+<li>A website <em>host</em> is where your content lives</li>
+<li>A <em>domain</em> is what you would type in the address bar (e.g., jonathanpeelle.net)</li>
+<li>Regardless of where you host your website, having a domain is nice (and often only about $20/year)
+<ul>
+<li>I use Hover. Save $2: <a href="https://hover.com/xFYiu13a" class="uri">https://hover.com/xFYiu13a</a></li>
+</ul></li>
+</ul>
+</section>
+<section id="website-content" class="slide level2">
+<h2>Website content</h2>
+<ul>
+<li>Think about your goals and likely audiences</li>
+<li>Be inspired by people you look up to in your desired profession</li>
+<li>At minimum:
+<ul>
+<li>A short bio or introduction</li>
+<li>A CV</li>
+<li>A list of publications</li>
+<li>Contact information</li>
+</ul></li>
+</ul>
+</section>
+<section id="other-social-media" class="slide level2">
+<h2>Other social media</h2>
+
+<aside><div>
+<p><a href="https://bsky.app/profile/jpeelle.bsky.social/post/3mtpomft3ic2n" class="uri">https://bsky.app/profile/jpeelle.bsky.social/post/3mtpomft3ic2n</a></p>
+</div></aside></section>
+<section id="general-observation" class="slide level2">
+<h2>General observation</h2>
+<ul>
+<li>Like most of life, what you get out of a thing relates to how much time and effort you put in</li>
+</ul>
 </section>
 <section id="questions" class="slide level2">
 <h2>Questions?</h2>
