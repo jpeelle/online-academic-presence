@@ -18,7 +18,7 @@
     "href": "online-academic-presence.html#what-goals-do-you-have-for-your-online-presence",
     "title": "Your online academic presence",
     "section": "What goals do you have for your online presence?",
-    "text": "What goals do you have for your online presence?\n\n\nAcademic job search\nResearch visibility\nTeaching visibility\nPublic engagement\nOther professional goals"
+    "text": "What goals do you have for your online presence?\n\n\nJob search\nResearch visibility\nTeaching visibility\nPublic engagement\nFinding community\nLearning from others"
   },
   {
     "objectID": "online-academic-presence.html#what-audiences-do-you-have-for-your-online-presence",
@@ -74,14 +74,14 @@
     "href": "online-academic-presence.html#themes-for-github-pages",
     "title": "Your online academic presence",
     "section": "Themes for GitHub pages",
-    "text": "Themes for GitHub pages\n\nhttps://academicpages.github.io"
+    "text": "Themes for GitHub pages\n\nhttps://academicpages.github.io\n\nStep-by-step instructions provided"
   },
   {
-    "objectID": "online-academic-presence.html#academic-website",
-    "href": "online-academic-presence.html#academic-website",
+    "objectID": "online-academic-presence.html#academicpages-edit-yaml-and-md-text-files",
+    "href": "online-academic-presence.html#academicpages-edit-yaml-and-md-text-files",
     "title": "Your online academic presence",
-    "section": "Academic website",
-    "text": "Academic website\n# Basic Site Settings\nlocale             : \"en-US\"\nsite_theme         : \"mint\"\ntitle              : \"Your online academic presence\"\ntitle_separator    : \"-\"\nname               : &name \"Jonathan Peelle\"\ndescription        : &description \"Professor Peelle's Portfolio\"   \nurl                : https://jpeelle.github.io \n                                                      \n\nauthor:\n  avatar           : \"profile.png\"\n  name             : \"Jonathan Peelle\"\n  pronouns         : \"he/him\"  \n  bio              : \"Smart and handsome professor\"\n  location         : \"Boston, MA\"\n  employer         : \"Northeastern University\"\n  uri              : \"http://jonathanpeelle.net\""
+    "section": "Academicpages: edit yaml and md text files",
+    "text": "Academicpages: edit yaml and md text files\n# Basic Site Settings\nlocale             : \"en-US\"\nsite_theme         : \"mint\"\ntitle              : \"Your online academic presence\"\ntitle_separator    : \"-\"\nname               : &name \"Jonathan Peelle\"\ndescription        : &description \"Professor Peelle's Portfolio\"   \nurl                : https://jpeelle.github.io \n                                                      \n\nauthor:\n  avatar           : \"profile.png\"\n  name             : \"Jonathan Peelle\"\n  pronouns         : \"he/him\"  \n  bio              : \"Smart and handsome professor\"\n  location         : \"Boston, MA\"\n  employer         : \"Northeastern University\"\n  uri              : \"http://jonathanpeelle.net\""
   },
   {
     "objectID": "online-academic-presence.html#hosting-vs.-domain",

@@ -40,11 +40,12 @@ format:
 
 . . .
 
- - Academic job search
+ - Job search
  - Research visibility
  - Teaching visibility
  - Public engagement
- - Other professional goals
+ - Finding community
+ - Learning from others
   
 
 ## What audiences do you have for your online presence?
@@ -125,11 +126,12 @@ Whether it's worth going beyond these depends on your personal goals.
 ## Themes for GitHub pages
 
 - <https://academicpages.github.io>
+   - Step-by-step instructions provided
 
 
 
 
-## Academic website
+## Academicpages: edit yaml and md text files
 
 ```{.yaml}
 # Basic Site Settings
