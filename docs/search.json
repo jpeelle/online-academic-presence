@@ -18,7 +18,7 @@
     "href": "online-academic-presence.html#what-goals-do-you-have-for-your-online-presence",
     "title": "Your online academic presence",
     "section": "What goals do you have for your online presence?",
-    "text": "What goals do you have for your online presence?\n\n\nJob search\nResearch visibility\nTeaching visibility\nPublic engagement\nFinding community\nLearning from others"
+    "text": "What goals do you have for your online presence?\n\n\nJob search\nResearch visibility\nTeaching visibility\nPublic engagement\nFinding community\nLearning from others\nParticipant recruitment"
   },
   {
     "objectID": "online-academic-presence.html#what-audiences-do-you-have-for-your-online-presence",
@@ -46,14 +46,14 @@
     "href": "online-academic-presence.html#considerations",
     "title": "Your online academic presence",
     "section": "Considerations",
-    "text": "Considerations\n\nIf you have a common name, use your middle initial - or write out your full middle name - consistently (not just on papers, but on your website, CV, social media, etc.).\nIf you don’t have a middle name, you may want to adopt one.\nThe more places your name appears in relation to what you want to be known for, the better. One website is better than zero; 20 is better than one."
+    "text": "Considerations\n\nIf you have a common name, use your middle initial—or write out your full middle name—consistently (not just on papers, but on your website, CV, social media, etc.).\nIf you don’t have a middle name, you may want to adopt one.\nThe more places your name appears in relation to what you want to be known for, the better. One website is better than zero; 20 is better than one."
   },
   {
     "objectID": "online-academic-presence.html#linkedin",
     "href": "online-academic-presence.html#linkedin",
     "title": "Your online academic presence",
     "section": "LinkedIn",
-    "text": "LinkedIn\n\nComplete your profile, targeting the audiences you want to reach\n\nIf you are looking for a job in industry you may want to highlight project management experience or coding.\n\nKeep your information current!\nBuild some kind of network\nConsider posting to promote your work, colleagues work, etc."
+    "text": "LinkedIn\n\nComplete your profile, targeting the audiences you want to reach\n\nIf you are looking for a job in industry you may want to highlight project management experience or coding.\n\nKeep your information current!\nBuild some kind of network\nConsider posting to promote your work, colleagues’ work, etc."
   },
   {
     "objectID": "online-academic-presence.html#website-requirements",
@@ -67,7 +67,7 @@
     "href": "online-academic-presence.html#website-options",
     "title": "Your online academic presence",
     "section": "Website options",
-    "text": "Website options\n\n\nSquarespace\n\nIntuitive editing\nGenerally looks good\nCosts money\n\nGitHub Pages\n\nIntuitive editing…if you are comfortable with markdown type languages and git workflow\nCan look good\nFree\n\nOther: Quarto, Rmarkdown, etc."
+    "text": "Website options\n::: - Squarespace - Intuitive editing - Generally looks good - Costs money - GitHub Pages - Intuitive editing…if you are comfortable with markdown type languages and git workflow - Can look good - Free - Other: Quarto, Rmarkdown, etc. :::"
   },
   {
     "objectID": "online-academic-presence.html#themes-for-github-pages",
@@ -88,7 +88,7 @@
     "href": "online-academic-presence.html#hosting-vs.-domain",
     "title": "Your online academic presence",
     "section": "Hosting vs. domain",
-    "text": "Hosting vs. domain\n\nA website host is where your content lives\nA domain is what you would type in the address bar (e.g., jonathanpeelle.net)\nRegardless of where you host your website, having a domain is nice (and often only about $20/year)\n\nI use Hover. Save $2: https://hover.com/xFYiu13a"
+    "text": "Hosting vs. domain\n\nA website host is where your content lives\nA domain is what you would type in the address bar (e.g., jonathanpeelle.net). You can change which host the domain points to in the future.\nRegardless of where you host your website, having a domain is nice (and often only about $20/year)\n\nI use Hover. Save $2: https://hover.com/xFYiu13a"
   },
   {
     "objectID": "online-academic-presence.html#website-content",
@@ -102,14 +102,21 @@
     "href": "online-academic-presence.html#other-social-media",
     "title": "Your online academic presence",
     "section": "Other social media",
-    "text": "Other social media\n\n\n\nhttps://bsky.app/profile/jpeelle.bsky.social/post/3mtpomft3ic2n"
+    "text": "Other social media\n\nDifferent platforms have different audiences and can serve different purposes\n\nBluesky\nMastodon\nInstagram\netc."
   },
   {
-    "objectID": "online-academic-presence.html#general-observation",
-    "href": "online-academic-presence.html#general-observation",
+    "objectID": "online-academic-presence.html#section-1",
+    "href": "online-academic-presence.html#section-1",
     "title": "Your online academic presence",
-    "section": "General observation",
-    "text": "General observation\n\nLike most of life, what you get out of a thing relates to how much time and effort you put in"
+    "section": "",
+    "text": "https://bsky.app/profile/jpeelle.bsky.social/post/3mtpomft3ic2n"
+  },
+  {
+    "objectID": "online-academic-presence.html#section-2",
+    "href": "online-academic-presence.html#section-2",
+    "title": "Your online academic presence",
+    "section": "",
+    "text": "Like most of life, what you get out of a thing relates to how much time and effort you put in."
   },
   {
     "objectID": "online-academic-presence.html#questions",

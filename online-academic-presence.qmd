@@ -46,6 +46,7 @@ format:
  - Public engagement
  - Finding community
  - Learning from others
+ - Participant recruitment
   
 
 ## What audiences do you have for your online presence?
@@ -79,7 +80,7 @@ Whether it's worth going beyond these depends on your personal goals.
 
 ## Considerations
 
-- If you have a common name, use your middle initial - or write out your full middle name - consistently (not just on papers, but on your website, CV, social media, etc.).
+- If you have a common name, use your middle initial---or write out your full middle name---consistently (not just on papers, but on your website, CV, social media, etc.).
 - If you don't have a middle name, you may want to adopt one.
 - The more places your name appears in relation to what you want to be known for, the better. One website is better than zero; 20 is better than one.
 
@@ -90,7 +91,7 @@ Whether it's worth going beyond these depends on your personal goals.
    - If you are looking for a job in industry you may want to highlight project management experience or coding.
  - Keep your information current!
  - Build some kind of network
- - Consider posting to promote your work, colleagues work, etc.
+ - Consider posting to promote your work, colleagues' work, etc.
 
  
 
@@ -106,7 +107,7 @@ Whether it's worth going beyond these depends on your personal goals.
 
 ## Website options
 
-::: {.incremental}
+::: 
 - [Squarespace][1]
    - Intuitive editing
    - Generally looks good
@@ -116,7 +117,6 @@ Whether it's worth going beyond these depends on your personal goals.
    - Can look good
    - Free
 - Other: Quarto, Rmarkdown, etc.
-
 :::
 
 [1]: http://www.squarespace.com/
@@ -158,7 +158,7 @@ author:
 ## Hosting vs. domain
 
 - A website *host* is where your content lives
-- A *domain* is what you would type in the address bar (e.g., jonathanpeelle.net)
+- A *domain* is what you would type in the address bar (e.g., jonathanpeelle.net). You can change which host the domain points to in the future.
 - Regardless of where you host your website, having a domain is nice (and often only about $20/year)
    - I use Hover. Save $2: <https://hover.com/xFYiu13a>
 
@@ -173,17 +173,32 @@ author:
    - A list of publications
    - Contact information
 
+
+
 ## Other social media
 
-![](images/bluesky.png){width=80%}
+ - Different platforms have different audiences and can serve different purposes
+   - Bluesky
+   - Mastodon
+   - Instagram
+   - etc.
+
+## 
+
+. . .
+
+![](images/bluesky.png){width=80%, fig-align="center"}
+
 
 :::aside
 <https://bsky.app/profile/jpeelle.bsky.social/post/3mtpomft3ic2n>
 :::
 
-## General observation
+##
 
- - Like most of life, what you get out of a thing relates to how much time and effort you put in
+::: {style="font-size: 2em;color:white"}
+Like most of life, what you get out of a thing relates to how much time and effort you put in.
+:::
 
 
 ## Questions?
